@@ -1,0 +1,6 @@
+{
+  "name": "UrbanShield AI",
+  "description": "Urban flood nowcasting, real-time risk assessment, GIS routing, and municipal decision-support platform.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
